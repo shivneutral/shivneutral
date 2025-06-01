@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-
-
 I'm a software engineer with 5+ years of experience in **PHP (Symfony, Spryker)** and **Java (Spring Boot)**.  
 Passionate about building scalable backend systems and exploring data science & analytics.
 
@@ -20,4 +17,3 @@ Passionate about building scalable backend systems and exploring data science & 
 Email-shivtech64@gmail.com
 
 
--->
